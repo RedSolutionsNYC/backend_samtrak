@@ -1,1 +1,1 @@
-# backend_samtrak
+Django Python Backend REST API
